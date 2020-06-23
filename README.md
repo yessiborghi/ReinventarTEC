@@ -3,6 +3,14 @@
 Se disponen los dataset para la realizacion del taller "Primeros pasos en el Análisis de Datos" de ReinventarTEC.
 Dichos dataset seran utilizados con la herramienta BlockPy.
 
+
+### Información del Taller 
+
+https://www.youtube.com/watch?v=Z8HxIJOr3pM
+
+En la descripción del video podrán encontrar el link a la presentación utilizada.
+
+
 #### Primer análisis
 
 Observamos la cantidad de mujeres en carreras afines a la ciencia y la informática desde 2010 a 2015
@@ -30,9 +38,3 @@ Archivos a utilizar
 - Buenos_Aires-Confirmados.json
 - CABA-Confirmados.json`
 ```
-
-### Información del Taller 
-
-https://www.youtube.com/watch?v=Z8HxIJOr3pM
-
-En la descripción del video podrán encontrar el link a la presentación utilizada.
