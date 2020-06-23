@@ -30,3 +30,9 @@ Archivos a utilizar
 - Buenos_Aires-Confirmados.json
 - CABA-Confirmados.json`
 ```
+
+### Información del Taller 
+
+https://www.youtube.com/watch?v=Z8HxIJOr3pM
+
+En la descripción del video podrán encontrar el link a la presentación utilizada.
